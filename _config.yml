@@ -1,6 +1,6 @@
 markdown: CommonMarkGhPages
+baseurl: /zen-habits
 permalink: pretty
-production_url : http://JacobHelton57.github.io/Jekyll-Blog-Undiscovered
 exclude: ['README.md']
 paginate: 3
 defaults:
@@ -16,6 +16,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      category: "standups"
       author: "Jacob Helton"
       banner_image: "900x300.png"
       thumbnail: "750x300.png"
