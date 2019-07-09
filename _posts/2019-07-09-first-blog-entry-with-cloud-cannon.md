@@ -1,7 +1,7 @@
 ---
 title: First Blog Entry with Cloud Cannon
-banner_image: /img/900x300.png
-thumbnail: /img/900x300.png
+banner_image: /img/tasks.jpg
+thumbnail: /img/tasks.jpg
 ---
 
 This is a new blog entry, the first added by cloud cannon to be exact.
@@ -24,9 +24,8 @@ I will add some different elements just to try out cloud cannon's functionality.
 &nbsp;
 
 Okay. Maybe that head was a *little*&nbsp;**too** much.
+<!--base32-41t62xt091a4uk10dxppjx3mcnj20-base32-->
 
 <img src="/zen-habits/uploads/boho-clipart-pineapple.jpeg" width="340" height="270" />
-
-&nbsp;
 
 I hope you like this pineapple.
